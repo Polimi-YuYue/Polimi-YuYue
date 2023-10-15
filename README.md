@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🍒 A post-90s person who loves software development.
+- 🍒 A post-90s person who loves deep learning and fault diagnosis.
 - 📍 Milano(MI).
 - 👨‍🎓 Politecnico di Milano.
 - 👩‍💻 4 years of study.
